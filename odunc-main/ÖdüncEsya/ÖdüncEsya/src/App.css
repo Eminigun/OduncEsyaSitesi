@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.form-container {
+  background: white;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  max-width: 400px;
+  width: 100%;
+}
+
+.page-title {
+  margin-bottom: 24px;
+  font-size: 24px;
+}
+
+.item-list {
+  background: white;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.item-list h1 {
+  margin-bottom: 24px;
+}
+
+.cart-container {
+  background: white;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.cart-container h1, .cart-container h2 {
+  margin-bottom: 24px;
+}
